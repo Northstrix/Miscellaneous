@@ -16,7 +16,14 @@ import javax.crypto.spec.SecretKeySpec;
 import javax.swing.*;
 import java.util.Scanner;
 import java.security.SecureRandom;
-
+/*
+A weird, bootleg database that utilizes the blockchain technology
+Works in the semi-manual mode
+Utilizes SQLite
+You can find more information here https://github.com/Northstrix/Miscellaneous
+Distributed under the MIT License
+© Copyright Maxim Bortnikov 2022
+ */
 public class MainClass extends JFrame{
     private JList<String> out_list;
     public static DefaultListModel<String> listModel = new DefaultListModel<>();
