@@ -13,3 +13,5 @@ Pictures of the database that allows you to automatically calculate the salary f
 ![image text](https://github.com/Northstrix/Miscellaneous/blob/main/Database%20that%20allows%20you%20to%20automatically%20calculate%20the%20salary%20for%20your%20workers%20written%20in%20C%23/Pictures/9.png)
 ![image text](https://github.com/Northstrix/Miscellaneous/blob/main/Database%20that%20allows%20you%20to%20automatically%20calculate%20the%20salary%20for%20your%20workers%20written%20in%20C%23/Pictures/10.png)
 ![image text](https://github.com/Northstrix/Miscellaneous/blob/main/Database%20that%20allows%20you%20to%20automatically%20calculate%20the%20salary%20for%20your%20workers%20written%20in%20C%23/Pictures/11.png)
+</br>
+All data demonstrated here is fictional
