@@ -22,7 +22,12 @@ import javax.swing.JMenuBar;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-
+/*
+Image convertor for the Arduino-compatible displays
+You can find more information here https://github.com/Northstrix/Miscellaneous
+Distributed under the MIT License
+© Copyright Maxim Bortnikov 2022
+ */
 public class Stuff extends JFrame 
 {
     JButton openImgButton = new JButton("Open");
